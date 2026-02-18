@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Oneathetop
 - 👀 I’m interested in Cybersecurity and Data Science
 - 🌱 I’m currently learning C# and Linux
-- ⚡ A fun fact about me is I love myself
