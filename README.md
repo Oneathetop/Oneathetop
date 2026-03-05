@@ -26,7 +26,7 @@
 
 ### Programming
 
-Python | JavaScript | SQL
+Python | SQL
 
 ### Machine Learning
 
