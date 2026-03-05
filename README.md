@@ -49,13 +49,7 @@ Predicts student final grades using regression and classification models.
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinindu cb014878\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinindu cb014878\&layout=compact)
-
----
 
 ## 📈 GitHub Activity Graph
 
