@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Undergraduate
-🤖 Interested in Machine Learning & Artificial Intelligence
-📊 Passionate about Data Science and Predictive Analytics
-🌐 Building ML-powered Web Applications
+* 🎓 Computer Science Undergraduate
+* 🤖 Interested in Machine Learning & Artificial Intelligence
+* 📊 Passionate about Data Science and Predictive Analytics
+* 🌐 Building ML-powered Web Applications
 
 ---
 
