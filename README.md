@@ -1,6 +1,5 @@
 # Hi 👋 I'm Dinindu Kumarathilake
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate;Machine+Learning+Enthusiast;Data+Science+Learner;Building+ML+Web+Applications\&center=true\&width=500\&height=45)
 
 ---
 
