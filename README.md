@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Dinindu Kumarathilake
 
-🎓 Computer Science Undergraduate
-💻 Interested in Machine Learning, Data Science, and Software Testing
-🚀 Currently building ML-powered web applications
+* 🎓 Computer Science Undergraduate
+* 💻 Interested in Machine Learning, Data Science, and Software Testing
+* 🚀 Currently building ML-powered web applications
 
 ---
 
