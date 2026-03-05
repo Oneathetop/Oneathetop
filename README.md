@@ -1,56 +1,75 @@
-# Hi there 👋 I'm Dinindu Kumarathilake
+# Hi 👋 I'm Dinindu Kumarathilake
 
-* 🎓 Computer Science Undergraduate
-* 💻 Interested in Machine Learning, Data Science, and Software Testing
-* 🚀 Currently building ML-powered web applications
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate;Machine+Learning+Enthusiast;Data+Science+Learner;Building+ML+Web+Applications\&center=true\&width=500\&height=45)
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-* 🎓 Undergraduate in Computer Science
-* 🤖 Interested in Machine Learning & AI
-* 📊 Passionate about Data Science and Predictive Analytics
-* 🌱 Currently learning: Advanced ML & Model Deployment
+🎓 Computer Science Undergraduate
+🤖 Interested in Machine Learning & Artificial Intelligence
+📊 Passionate about Data Science and Predictive Analytics
+🌐 Building ML-powered Web Applications
 
 ---
 
-## 🚀 Projects
+## 🧠 Current Focus
 
-🔹 **Customer Churn Prediction System**
-Machine learning web application to predict customer churn and recommend products.
-
-🔹 **Student Performance Prediction**
-Predicts student final grades using regression and classification models.
+* Machine Learning Models
+* Data Science Projects
+* Model Deployment with Flask
+* Building AI-powered Web Systems
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Programming
 
-* Python
-* SQL
+Python | JavaScript | SQL
 
-**Machine Learning & Data**
+### Machine Learning
 
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
+Scikit-learn | Pandas | NumPy | Matplotlib
 
-**Web Development**
+### Tools
 
-* Flask
+Git | VS Code
 
-**Tools**
+---
 
-* Git
-* VS Code
+## 🚀 Featured Projects
+
+### 🔹 Customer Churn Prediction System
+
+Machine learning system to predict customer churn and generate recommendations.
+
+### 🔹 Student Performance Prediction
+
+Predicts student final grades using regression and classification models.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oneathetop\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oneathetop\&layout=compact)
+
+---
+
+## 📈 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oneathetop)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 ---
 
 ## 🔗 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/dinindu-kumarathilake-39899b244/
-
