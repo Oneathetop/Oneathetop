@@ -57,11 +57,7 @@ Predicts student final grades using regression and classification models.
 
 ---
 
-## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
----
 
 ## 🔗 Connect With Me
 
