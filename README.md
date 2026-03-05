@@ -46,16 +46,7 @@ Predicts student final grades using regression and classification models.
 **Tools**
 
 * Git
-* GitHub
 * VS Code
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oneathetop\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oneathetop\&layout=compact)
 
 ---
 
